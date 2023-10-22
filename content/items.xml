@@ -1,6 +1,6 @@
 <items gfxroot="gfx/items/" deathanm2="gfx/death items.anm2" version="1">
 	<active id="1" name="Golden D6" description="an example of an active item" gfx="goldenD6.png" maxcharges="12" quality="4"/>
-	<active id="2" name="Crooked D6" description="an example of an active item" gfx="crookedD6.png" maxcharges="12" quality="4"/>
-	<active id="3" name="Dollar Cube" description="an example of an active item" gfx="dollarcube.png" maxcharges="12" quality="4"/>
-	<active id="4" name="Glass D6" description="an example of an active item" gfx="glassD6.png" maxcharges="12" quality="4"/>
+	<active id="2" name="Crooked D6" description="an example of an active item" gfx="crookedD6.png" maxcharges="4" quality="4"/>
+	<active id="3" name="Dollar Cube" description="an example of an active item" gfx="dollarcube.png" maxcharges="6" quality="4"/>
+	<active id="4" name="Glass D6" description="an example of an active item" gfx="glassD6.png" maxcharges="0" quality="4"/>
 </items>
