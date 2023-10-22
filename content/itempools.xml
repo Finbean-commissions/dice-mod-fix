@@ -1,6 +1,9 @@
 <ItemPools>
 	<Pool Name="treasure">
 		<Item Name="Golden D6" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
+		<Item Name="Crooked D6" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
+		<Item Name="Dollar Cube" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
+		<Item Name="Glass D6" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
 	</Pool>
 	<Pool Name="greedTreasure">
 		<Item Name="Golden D6" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
